@@ -6,8 +6,6 @@
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
-*Update: This repo has a friendlier version available [here](https://luong-komorebi.gitlab.io/Awesome-Linux-Software).*
-
 **Acknowledgement:** *Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate student. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.*
 
 * Brazilian Portuguese version : [here](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_pt-BR.md).
@@ -54,7 +52,7 @@
 
 ***********
 
-- [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [Linux News, Apps, and more ....](#linux-news-apps-and-more)
 - [Reddit](#reddit)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
@@ -75,6 +73,7 @@
 
 ### Audio
 *For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio)*
+
 - [![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) [Airtime](https://www.airtime.pro/) - The open broadcast software for scheduling and remote station management.
 - [![Open-Source Software][OSS Icon]](https://ardour.org/development.html) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
 - [![Open-Source Software][OSS Icon]](https://audacious-media-player.org/developers) [Audacious](https://audacious-media-player.org/) - An open source audio player that plays your music how you want it, without stealing away your computer’s resources from other tasks.
@@ -93,7 +92,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - Unofficial but beautiful cross-platform desktop player for Google Play Music.
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/Gradio) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for Ubuntu Linux.
-- [Harmony](https://getharmony.xyz) - Music player with sleek interface & cloud compatibility.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/) - Advanced drum machine for GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
@@ -194,7 +192,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - A flat theme with transparent elements.
+- [![Open-Source Software][OSS Icon]](https://github.com/jnsh/arc-theme) [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
@@ -227,10 +225,10 @@
 
 #### Android
 - [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.
-- [Android studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
+- [![Open-Source Software][OSS Icon]](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/source.md) [Android studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
 
 #### C\+\+
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+- [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/codeblocks/code/HEAD/tree/) [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 - [![Open-Source Software][OSS Icon]](https://wiki.codelite.org/pmwiki.php/Main/Repositories) [Codelite](https://codelite.org/) - A Free, open source, cross platform C/C++, PHP and Node.js IDE.
 - ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C/C++.
 - [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
@@ -378,6 +376,7 @@
 - [![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept) [Textadept](https://foicica.com/textadept) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](https://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
 - [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
+- [![Open-Source Software][OSS Icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://github.com/VSCodium/vscodium) - Binary releases of VS Code without MS branding/telemetry/licensing.
 
 ### Education
 - [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
@@ -556,12 +555,13 @@
 - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
 - [![Open-Source Software][OSS Icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
+- [![Open-Source Software][OSS Icon]](http://ipe.otfried.org) [Ipe](http://ipe.otfried.org) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format.
 - [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/graphics/karbon/development) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/mattia.basaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.
 - [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint) [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets.
 - [![Open-Source Software][OSS Icon]](https://gitlab.com/jonata/opendvdproducer) [Open DVD Producer](https://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.
-- [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.
+- [![Open-Source Software][OSS Icon]](https://www.pinta-project.com/howto/contribute) [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/lsm) [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.
 - [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) [Synfig Studio](https://www.synfig.org/) - Open-source 2D animation software.
 - [![Open-Source Software][OSS Icon]](https://github.com/scantailor/scantailor) [Scan Tailor](https://scantailor.org/) - Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide).
@@ -614,8 +614,11 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) [asciinema](https://asciinema.org) - Terminal session recorder.
 - [![Open-Source Software][OSS Icon]](https://github.com/dvershinin/green-recorder) [Green Recorder](https://github.com/dvershinin/green-recorder) - A simple desktop recorder for Linux systems, supports recording audio and video on almost all Linux interfaces and Wayland display server on GNOME session.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/kazam) [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.
+- [![Open-Source Software][OSS Icon]](https://github.com/SeaDve/Kooha) [Kooha](https://flathub.org/apps/details/io.github.seadve.Kooha) - A simple screen recorder written with GTK. It allows you to record your screen and also audio from your microphone or desktop.
+- [![Open-Source Software][OSS Icon]](https://github.com/orhun/menyoki) [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
 - [![Open-Source Software][OSS Icon]](https://github.com/phw/peek) [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+- [![Open-Source Software][OSS Icon]](https://github.com/amikha1lov/RecApp) [RecApp](https://flathub.org/apps/details/com.github.amikha1lov.RecApp) - User friendly Open Source screencaster for Linux written in GTK. Using free GStreamer modules and not depend on FFmpeg.
 - [![Open-Source Software][OSS Icon]](https://github.com/colinkeenan/silentcast) [Silentcast](https://github.com/colinkeenan/silentcast) - Silentcast can create MKV screencasts and also output to an animated GIF.
 - [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.
 - [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) [Vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) - A free, multilingual and easy to use screencast recorder with audio for Linux. It has many features.
@@ -661,7 +664,7 @@
 - [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](https://github.com/rg3/youtube-dl) - Command line video downloader from youtube.com and about other thousand video platforms. It's really awesome, at least for me.
 - [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) - Youtube-dlg is a GUI for youtube-dl and allows for simple copy and paste from all youtube-dl compatible websites. It can auto-update youtube-dl as well as process a list of URL's in parallel.
-- [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encyrption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
+- [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web Service Client
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) - A KDE Feed Reader.
@@ -724,6 +727,7 @@
 #### Dock
 - [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc.
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/docky) [Docky](https://launchpad.net/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker.
+- [![Open-Source Software][OSS Icon]](https://invent.kde.org/plasma/latte-dock) [LatteDock](https://store.kde.org/p/1169519/) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. 
 - [![Open-Source Software][OSS Icon]](https://git.launchpad.net/plank) [Plank](https://launchpad.net/plank) - Plank is meant to be the simplest dock of apps on the planet.
 
 #### Local Search
@@ -750,6 +754,7 @@
 #### Note Taking
 - [![Open-Source Software][OSS Icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
+- [![Open-Source Software][OSS Icon]](https://github.com/giuspen/cherrytree) [Cherrytree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
 - ![Nonfree][Money Icon] [Inkdrop](https://inkdrop.app/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) [Joplin](https://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [![Open-Source Software][OSS Icon]](https://github.com/dvorka/mindforger) [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
@@ -799,6 +804,9 @@
 
 ### Security
 
+#### Boot Integrity
+- [![Open-Source Software][OSS Icon]](https://github.com/noahbliss/mortar) [Mortar](https://github.com/noahbliss/mortar) - Mortar allows for convenient automatic unlocking of LUKS-encrypted disks without sacrificing security through the use of Secureboot and TPM validation. Mortar aims to be distribution-agnostic.
+
 #### Compartmentalization
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
@@ -839,6 +847,7 @@
 
 ### Sharing Files
 - [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+- [![Open-Source Software][OSS Icon]](https://github.com/schollz/croc) [croc](https://schollz.com/blog/croc6/) - Easily and securely send things from one computer to another.
 - [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.
 - [![Open-Source Software][OSS Icon]](https://git.deluge-torrent.org/deluge) [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
@@ -921,7 +930,7 @@
 #### System Monitoring
 - [![Open-Source Software][OSS Icon]](https://github.com/imsnif/bandwhich) [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~cpug-devs/cpug/main/files) [CPU-G](https://launchpad.net/cpug) - Easy monitoring the battery life of your Ubuntu laptop.
-- [![Open-Source Software][OSS Icon]](https://github.com/vagnum08/cpupower-gui) [cpupower-gui](https://github.com/vagnum08/cpupower-gui) - Graphical program to easily change the frequency limits and governors of the CPU, similar to cpupower. 
+- [![Open-Source Software][OSS Icon]](https://github.com/vagnum08/cpupower-gui) [cpupower-gui](https://github.com/vagnum08/cpupower-gui) - Graphical program to easily change the frequency limits and governors of the CPU, similar to cpupower.
 - [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage.
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~artfwo/indicator-cpufreq/trunk/files) [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
@@ -939,7 +948,7 @@
 - [![Open-Source Software][OSS Icon]](https://convertall.bellz.org/download.html) [Convertall](https://sourceforge.net/projects/convertall/) - A program that can convert many units of measurement to other units.
 - [![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew) [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
 - [![Open-Source Software][OSS Icon]](https://git.suckless.org/dmenu/) [dmenu](https://tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X, originally designed for dwm. It manages large numbers of user-defined menu items efficiently.
-- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
+- [![Open-Source Software][OSS Icon]](https://github.com/aramg/droidcam/tree/master/linux) [Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
 - [![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) [EasyStroke](https://github.com/thjaeger/easystroke) - Easystroke is a gesture-recognition application for X11.
 - [![Open-Source Software][OSS Icon]](https://github.com/OzymandiasTheGreat/emoji-keyboard) [Emoji Keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
@@ -1016,6 +1025,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](https://hisham.hm/htop/) - An interactive process viewer for Unix systems with improved features and user experience.
 - [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/hyperfine) [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
+- [![Open-Source Software][OSS Icon]](https://github.com/orhun/kmon) [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 - [![Open-Source Software][OSS Icon]](https://github.com/Peltoche/lsd) [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
@@ -1080,6 +1090,7 @@
 
 ### Compositors
 - [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][OSS Icon]](https://github.com/Plagman/gamescope) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
 - [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 - [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
@@ -1095,6 +1106,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems.
 - [![Open-Source Software][OSS Icon]](https://github.com/Airblader/i3) [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
 - [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python.
+- [![Open-Source Software][OSS Icon]](https://github.com/pop-os/shell) [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 
 ### Dynamic window managers
 - [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) - A highly configurable, next generation framework window manager for X.
@@ -1104,22 +1116,39 @@
 
 ### Linux News, Apps, and more:
 
-* [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
-* [ITSFOSS](https://itsfoss.com/)
-* [Linux official](https://www.linux.com/)
-* [Webupd8](http://www.webupd8.org/)
-* [Noobslab](https://www.noobslab.com/)
-* [Make use of](https://www.makeuseof.com/service/linux/)
-* [TecMint](https://www.tecmint.com/)
+* [9To5Linux](https://9to5linux.com/)
 * [AllTop](https://linux.alltop.com/)
-* [Unixmen](https://www.unixmen.com/)
-* [DistroWatch](https://distrowatch.com/)
-* [Phoronix](https://www.phoronix.com/)
+* [ArchiveOS](https://archiveos.org/linux/)
 * [Dedoimedo](https://www.dedoimedo.com/)
-* [How-To Geek](https://www.howtogeek.com/t/linux/)
-* [Liliputing](https://liliputing.com/)
+* [DistroTube](https://distrotube.com/)
+* [DistroWatch](https://distrowatch.com/)
 * [FAMILUG](https://www.familug.org/)
+* [GamingOnLinux](https://www.gamingonlinux.com/)
+* [How-To Geek](https://www.howtogeek.com/t/linux/)
+* [ITSFOSS](https://itsfoss.com/)
+* [Lemmy c/Linux](https://lemmy.ml/c/linux)
+* [Liliputing](https://liliputing.com/)
+* [LinuxHandbook](https://linuxhandbook.com/)
+* [LinuxLinks](https://www.linuxlinks.com/)
+* [Linux official](https://www.linux.com/)
+* [LinuxSmartphones](https://linuxsmartphones.com/)
+* [LinuxStans](https://linuxstans.com/)
+* [Linux Timeline](https://github.com/FabioLolix/LinuxTimeline/releases)
+* [LWN](https://lwn.net/)
+* [Make use of](https://www.makeuseof.com/service/linux/)
+* [Nixcraft forum](https://www.nixcraft.com/)
+* [Nixcraft](https://www.cyberciti.biz/)
+* [Noobslab](https://www.noobslab.com/)
+* [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
+* [Open Source](https://opensource.com/)
+* [Phoronix](https://www.phoronix.com/)
+* [Repology](https://repology.org/)
+* [Slashdot](https://linux.slashdot.org/)
+* [TecMint](https://www.tecmint.com/)
 * [Ubuntu Geek](https://www.ubuntugeek.com/)
+* [UbuntuHandbook](https://ubuntuhandbook.org/)
+* [Unixmen](https://www.unixmen.com/)
+* [Webupd8](http://www.webupd8.org/)
 
 ### Reddit
 
@@ -1132,6 +1161,7 @@
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
+
 ## Contributors
 
 Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and

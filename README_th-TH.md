@@ -106,7 +106,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - โปรแกรมสำหรับเล่นเพลงจาก Google Play Music โดยนักพัฒนาภายนอก รองรับหลายระบบปฏิบัติการสำหรับเครื่องเดสก์ท็อป
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - โปรแกรมสำหรับฟัง podcast และรวบรวมไฟล์มีเดียต่างๆ
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - ซอฟต์แวร์ที่เกียวข้องกับวิทยุสำหรับ Ubuntu Linux
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - โปรแกรมเล่นเพลงหน้าตาดี และเล่นไฟล์เพลงที่อยู่บนคลาวด์ได้
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - ซอฟต์แวร์สำหรังสังเคราะห์เสียง สามารถใช้ได้ทั้งแบบ stand alone และเป็นแบบปลั๊กอิน LV2, VST, VST3 และ AU
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - เครื่องมือสำหรับกลองขั้นสูงสำหรับ GNU/Linux
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
@@ -202,7 +201,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - A flat theme with transparent elements
+- [![Open-Source Software][OSS Icon]](https://github.com/jnsh/arc-theme) [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop is a modern desktop theme suite build for the Solus Project. Its design is mostly flat with a minimal use of shadows for depth.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - A flat and blue GTK theme that also comes in darker versions.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.

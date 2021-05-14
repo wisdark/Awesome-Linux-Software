@@ -6,8 +6,6 @@
 <br>
 🐧 Siéntete libre de **contribuir** / **dar star** / **hacer fork** / **crear un pull request**. Cualquier **recomendación** y **sugerencia** son bienvenidos.
 
-*Actualización: Este repositorio tiene una versión más amigable disponible [aquí](https://luongvo209.gitlab.io/Awesome-Linux-Software).*
-
 **Reconocimiento:** *Todo lo escrito a continuación es desde mi propia experiencia en la escuela y después leyendo varios materiales. No soy ni un profesional ni un experto, pero un estudiante apasionado. Cualquiera puede abrir una discusión en la sección "Issues", o hacer un "pull request" si considera que algo debe ser modificado o agregado.*
 
 * versión china : [aquí](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/README_zh-CN.md) o [aquí](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) o [aquí](https://github.com/0xE8551CCB/awesome-linux-software-cn).
@@ -109,7 +107,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Una multiplataforma no oficial pero hermosa reproductor de medios para musica de Google Play.
 - [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder) [Gpodder](https://gpodder.github.io/) - Un agregador de podcasts y cliente.
 - [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) [GRadio](https://github.com/haecker-felix/gradio/releases/) - Software de radio para Linux Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - Un Reproductor de medios con una bonita interfaz & compatibilidad la nube.
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - Un Sintetizador en Software, que puede funcionar solo o con muchos complementos como: LV2, VST, VST3 o AU plugin.
 - [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen) [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Uno caja de ritmos avanzado para GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - es una aplicación multiplataforma para escuchar música en la música de NetEase.
@@ -206,7 +203,7 @@
 
 - [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) - Un tema adaptativo hecho de GTK + se basa en las directrices de Google Material Design.
 - [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) - Ant es un diseño plano de GTK para Ubuntu y otros escritorios Linux basados en GNOME. Tiene tres variedades: vanilla, Bloody, y Dracula.
-- [![Open-Source Software][OSS Icon]](https://github.com/NicoHood/arc-theme) [Arc Theme](https://github.com/NicoHood/arc-theme) - Un tema plano con elementos transparentes.
+- [![Open-Source Software][OSS Icon]](https://github.com/jnsh/arc-theme) [Arc Theme](https://github.com/jnsh/arc-theme) - Un tema plano con elementos transparentes.
 - [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme) [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - Evopop es un moderno tema de escritorio para Solus Linux. Es un tema plano con algún uso de sombras.
 - [![Open-Source Software][OSS Icon]](https://github.com/anmoljagetia/Flatabulous) [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - Un tema plano para Ubuntu linux y otros sistemas operativos Linux basados en GNOME.
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Un tema GTK plano y azul que tiene una versión oscura alternativa.

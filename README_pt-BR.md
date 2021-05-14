@@ -99,7 +99,6 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][OSS Icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org/index.php) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - Não é oficial, mas é um bonito reprodutor multiplataforma para Google Play Music.[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
 - [Gpodder](https://gpodder.github.io/) - Agregador de mídia e cliente de podcast. [![Open-Source Software][OSS Icon]](https://github.com/gpodder/gpodder)
-- [Harmony](http://getharmony.xyz) - Reprodutor de música com interface elegante e compatibilidade com a nuvem. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony)
 - [![Open-Source Software][OSS Icon]](https://github.com/mtytel/helm) [Helm](http://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - Bateria avançada paraa GNU/Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - iEaseMusic is a multiplatform program built in electron for listening to NetEase Music.
@@ -179,7 +178,7 @@ Ele foi projetado principalmente para ajudar a recuperar partições perdidas e/
 ### Personalização do Desktop
 - [Adapta Theme](https://github.com/tista500/Adapta) - Um tema Gtk+ adaptado baseado nas diretrizes do Material Design. ![Open-Source Software][OSS Icon]
 - [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - Um tema de ícone modernos que deve ser usado com o Moka Icon Theme. ![Open-Source Software][OSS Icon]
-- [Arc Theme](https://github.com/NicoHood/arc-theme) - Um tema flat com elementos transparentes. ![Open-Source Software][OSS Icon]
+- [Arc Theme](https://github.com/jnsh/arc-theme) - Um tema flat com elementos transparentes. ![Open-Source Software][OSS Icon]
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - O projeto OpenCompositing traz efeitos visuais de desktop 3D que melhoram a usabilidade do sistema X Window e proporcionam uma maior produtividade.
 - [Conky](https://github.com/brndnmtthws/conky) - Conky é um monitor de sistema gratuito e leve para X, que exibe qualquer tipo de informação no seu Desktop. [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)
 - [EvoPop Theme](https://github.com/solus-project/evopop-gtk-theme) - EvoPop é uma construção de conjuntos de temas de desktop moderno para o Projeto Solus. Seu design é principalmente flat com um uso minímo de sombras para profundiade. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/evopop-gtk-theme)

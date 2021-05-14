@@ -6,7 +6,7 @@
 <br>
 🐧 请随意 **contribute** / **star** / **fork** / **pull request**。欢迎一切**推荐**和**建议**。
 
-*更新：原英文库已经在 [Gitbook](https://luongvo209.gitlab.io/Awesome-Linux-Software) 上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载英文 pdf 版本。*
+*更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)。你可以将这个链接分享给新用户，因为在上面阅读相比于在 github 上阅读会更加友好。可以在[这里](https://goo.gl/xhiKla)下载英文 pdf 版本。*
 
 ## 目录
 
@@ -81,7 +81,6 @@
 - [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - 简单的声音录制软件，就在 ubuntu ppa。
 - [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) [Clementine](https://www.clementine-player.org/) - 播放无数的有损和无损音频格式。 
 - [![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 非官方但很漂亮的跨平台 Google Play Music 桌面客户端。
-- [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) [Harmony](http://getharmony.xyz) - 有着整洁界面且兼容云的音乐播放器。 
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 上的高级电子鼓。
 - [![Open-Source Software][OSS Icon]](https://github.com/trazyn/ieaseMusic) [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 优雅的NeteaseMusic桌面应用程序，Rock with NeteaseMusic。 
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b) [K3b](http://www.k3b.org/) - K3b - Linux 上的 CD/DVD 创建工具 - 为 KDE 特别优化。
@@ -141,7 +140,7 @@
 ### 桌面个性化
 - ![Open-Source Software][OSS Icon] [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，遵循 Material 设计指南。
 - ![Open-Source Software][OSS Icon] [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - 一款可以和 Moka 图标主题一同使用的现代图标主题。 
-- ![Open-Source Software][OSS Icon] [Arc Theme](https://github.com/NicoHood/arc-theme) - 带有透明元素的扁平化主题 
+- ![Open-Source Software][OSS Icon] [Arc Theme](https://github.com/jnsh/arc-theme) - 带有透明元素的扁平化主题 
 - [Compiz Config settings manager](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - OpenCompositing 项目带来的提高 X Window 系统可用性和生产力的 3D 桌面视觉特效。
 - [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky) [Conky](https://github.com/brndnmtthws/conky) - Conky 是 X 下一款免费，轻量的系统监视器，可以在你桌面显示任何类型的信息。 
 - [![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme) [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 我最爱的 ubuntu 主题。
