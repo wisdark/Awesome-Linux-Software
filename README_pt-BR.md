@@ -129,7 +129,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 ### Clientes para bate papo
 
 - [![Open-Source-Software][oss icon]](hhttps://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](http://beebeep.sourceforge.net) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
-- [Caprine](https://sindresorhus.com/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
+- [Caprine](https://github.com/sindresorhus/caprine) - Elegante aplicativo desktop do Facebook Messenger. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
 - [Chatty](http://chatty.github.io/) - Chatty é um cliente de bate-papo Twitch para todos que querem experimentar algo novo e diferente de um webchat, e que também não desejam a complexidade de um cliente IRC ou perder os recursos especifícos do Twitch.[![Open-Source Software][oss icon]](https://github.com/chatty/chatty)
 - [Dino](https://dino.im) - Cliente de chat Jabber/XMPP limpo e moderno. [![Open-Source Software][oss icon]](https://github.com/dino/dino)
 - [Discord](https://discord.com/) - Conversa de voz e texto para gamers de forma gratuita, segura, e funciona tanto em desktop quanto no celular.
@@ -322,7 +322,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Peruse](https://peruse.kde.org/) - Uma maneira agradável de ler quadrinhos..[![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][freeware icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview é um visualizador de documentos com guias. [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) ![Freeware][freeware icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil é um editor de eBook multi-plataforma EPUB.[![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][freeware icon]
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][freeware icon]
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://github.com/pwmt/zathura) ![Freeware][freeware icon]
 
 ### Editores
 
@@ -729,7 +729,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 
 #### Time and Task
 
-- [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files)
+- [Alarm Clock](https://alarm-clock-applet.github.io/) - Alarm Clock is a fully-featured alarm clock for your GNOME panel or equivalent. [![Open-Source Software][oss icon]](https://github.com/alarm-clock-applet/alarm-clock)
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
@@ -818,7 +818,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator. [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)
 - [RXVT](https://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard â€˜xtermâ€™. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][oss icon]](https://launchpad.net/sakura)
-- [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - itâ€™s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
+- [![Open-Source Software][oss icon]](https://github.com/gnome-terminator/terminator) [Terminator](https://gnome-terminator.org/) - itâ€™s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
 - [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][oss icon]](https://github.com/billiob/terminology)
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][oss icon]](https://github.com/thestinger/termite)
@@ -1030,7 +1030,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm)
 - [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm)
 - [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [![Open-Source Software][oss icon]](https://github.com/i3/i3)
-- [Qtile](https://www.qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
+- [Qtile](https://qtile.org/) - qtile is a full-featured, hackable tiling window manager written and configured in Python [![Open-Source Software][oss icon]](https://github.com/qtile/qtile)
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ### Dynamic window managers
@@ -1149,7 +1149,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)

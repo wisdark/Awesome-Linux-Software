@@ -142,7 +142,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Clientes no oficiales
 
-- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) - Un programa que está muy bien diseñado para Facebook.
+- [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) [Caprine](https://github.com/sindresorhus/caprine) - Un programa que está muy bien diseñado para Facebook.
 - [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) - Chatty es una a cliente twitch para mensajes.
 - [![Open-Source Software][oss icon]](https://github.com/stanfieldr/ghetto-skype) [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - Un Software código abierto envoltura el programma web para Skype.
 - [![Open-Source Software][oss icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) [Messenger for Desktop](https://messengerfordesktop.com/#download) - Una Programa para mensajería instantánea de Facebook.
@@ -363,7 +363,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) [Peruse](https://peruse.kde.org/) - Una manera relajante de leer cómics.
 - [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview es un visor de documentos con pestañas.
 - [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil es un lector de libros electrónicos EPUB multiplataforma.
-- [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional.
+- [![Open-Source Software][oss icon]](https://github.com/pwmt/zathura) [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional.
 
 ### Editor de texto
 
@@ -772,7 +772,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 #### Tiempo y tareas orientadas
 
-- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock es un despertador con muchas características.
+- [![Open-Source Software][oss icon]](https://github.com/alarm-clock-applet/alarm-clock) [Alarm Clock](https://alarm-clock-applet.github.io/) - Alarm Clock es un despertador con muchas características.
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando.
 - [California](https://wiki.gnome.org/Apps/California) - Un reemplazo de la aplicación de calendario, que puede aceptar entrada de lenguaje natural.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - Everdo es una aplicación para el desarrollo y la gestión del trabajo que es multiplataforma y no un Software como servicio.
@@ -861,7 +861,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](https://rxvt.sourceforge.net/) - Un emulador de terminal diseñado para el entorno X11. Es un reemplazo popular para "xterm".
 - [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode es una bifurcación de un emulador de terminal bien conocido.
 - [![Open-Source Software][oss icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - Un emulador de terminal potente compra sencillo basado en libvte.
-- [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
+- [![Open-Source Software][oss icon]](https://github.com/gnome-terminator/terminator) [Terminator](https://gnome-terminator.org/) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
 - [![Open-Source Software][oss icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - La terminal bonita y rápida del escritorio Enlightenment. Tiene una cantidad sorprendente de características.
 - [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - Una aplicación terminal moderna y muy personalizable basada en tecnologías web.
 - [![Open-Source Software][oss icon]](https://github.com/nonstop/termit/wiki) [Termit](https://github.com/nonstop/termit/wiki) - un emulador de terminal simple basado en VTE, y extensible con Lua.
@@ -1053,7 +1053,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm es un gestor de embaldosado que representa las ventanas como partes de un árbol.
 - [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) - Es un manual gestor de embaldosado para X11.
 - [![Open-Source Software][oss icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) - i3 WM es un gestor de ambaldosado y dinámico que es administrador de ventanas capaz escrito desde cero.
-- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](https://www.qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
+- [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) [Qtile](https://qtile.org/) - qtile es un gestor de embaldosado hackable completo en python.
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) - Sway está embaldosando el compositor Wayland y reemplazando al administrador de ventanas i3 para X11.
 
 ### Gestor de dinámico
@@ -1172,7 +1172,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [DistroWatch](http://distrowatch.com/)
 - [Phoronix](http://www.phoronix.com/)
 - [Dedoimedo](http://www.dedoimedo.com/)
-- [How-To Geek](http://www.howtogeek.com/t/linux/)
+- [How-To Geek](https://www.howtogeek.com/category/linux/)
 - [Liliputing](http://liliputing.com/)
 - [FAMILUG](http://www.familug.org/)
 - [Ubuntu Geek](http://www.ubuntugeek.com/)

@@ -532,7 +532,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 
 ### 生产力
 
-- [![Open-Source Software][oss icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](https://alarm-clock.pseudoberries.com/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。
+- [![Open-Source Software][oss icon]](https://github.com/alarm-clock-applet/alarm-clock) [Alarm Clock](https://alarm-clock-applet.github.io/) - Alarm Clock 是一款全功能的 GNOME 或其它面板的闹钟。
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - 在 Linux 上安装环境噪声提高专注。
 - [Autokey](https://github.com/autokey/autokey) - 一款 Linux 桌面自动化工具，让你可以管理你的脚本和短语集合，并给它们分配缩写或者快捷键。
 - [![Open-Source Software][oss icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - 这个多用途的笔记应用帮助你记下所有类型的笔记。
@@ -624,7 +624,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode 是著名的终端模拟器的一个分支。
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/) [RXVT](https://rxvt.sourceforge.net/) - 一款 X11 终端模拟器，流行的‘xterm’替代品。
 - [![Open-Source Software][oss icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - 简单但是强大，基于 libvte 的终端模拟器，支持 utf-8 并且通过 gtk+ 和 pango 库提供输入法。
-- [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 很明显 Linux 上最强大的终端模拟器是功能丰富的 Terminator（终结者）。
+- [![Open-Source Software][oss icon]](https://github.com/gnome-terminator/terminator) [Terminator](https://gnome-terminator.org/) - 很明显 Linux 上最强大的终端模拟器是功能丰富的 Terminator（终结者）。
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/terminix) [Terminix](https://gnunn1.github.io/terminix-web/#packages) - 使用 GTK+3 的 Linux 平铺终端模拟器。
 - [![Open-Source Software][oss icon]](https://github.com/thestinger/termite) [Termite](https://github.com/thestinger/termite) - 以键盘为中心，基于 VTE 的终端，旨在在一个支持平铺和/或标签的窗口管理器中使用。
 - [![Open-Source Software][oss icon]](https://github.com/nonstop/termit/wiki) [Termit](https://github.com/nonstop/termit/wiki) - 基于 vte 库的简单终端模拟器，可通过 Lua 扩展。
